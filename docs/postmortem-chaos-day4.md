@@ -106,6 +106,13 @@ redistribute load to.
   pattern: verify persistence explicitly for any component whose state you
   care about keeping.
 
+![Terminal view during pod-kill experiment](docs/images/chaos-exp1-terminals.png)
+![Grafana request-rate dip during pod replacement](docs/images/chaos-exp1-grafana-dip.png)
+
+![P99 latency during CPU stress test](docs/images/ex3.png)
+![Alertmanager showing no HighErrorBudgetBurn alert active](docs/images/alertmanager-active-alert.png)
+
+
 ## Action items
 | Action | Owner | Priority | Status |
 |---|---|---|---|
