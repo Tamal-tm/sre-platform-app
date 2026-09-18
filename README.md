@@ -7,7 +7,7 @@ incident response.
 ## Architecture
 ![Architecture diagram](./docs/architecture.png)
 
-> Part of a 3-repo GitOps setup. See [sre-platform](https://github.com/Tamal-tm/sre-platform)
+> Part of a 4-repo GitOps setup. See [sre-platform](https://github.com/Tamal-tm/sre-platform)
 > for the full architecture, infra setup, and end-to-end demo.
 
 ## What's in here
